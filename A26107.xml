@@ -1,0 +1,292 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached in the parish church of Hackney on the fifth of July, 1685 being the day before the battle and victory over the rebels in the west / by Thomas Aston ...</title>
+            <author>Aston, Thomas, b. 1649 or 50.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A26107</idno>
+            <idno type="STC">Wing A4081</idno>
+            <idno type="STC">ESTC R18302</idno>
+            <idno type="EEBO-CITATION">12729337</idno>
+            <idno type="OCLC">ocm 12729337</idno>
+            <idno type="VID">66409</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A26107)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 66409)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 374:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached in the parish church of Hackney on the fifth of July, 1685 being the day before the battle and victory over the rebels in the west / by Thomas Aston ...</title>
+                  <author>Aston, Thomas, b. 1649 or 50.</author>
+               </titleStmt>
+               <extent>35 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Benjamin Crayle ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Marginal notes.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Isaiah LVII, 21 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:66409:1"/>
+            <pb facs="tcp:66409:1" rendition="simple:additions"/>
+            <p>A SERMON Preached in the Pariſh CHURCH OF HACKNEY; ON The fifth of <hi>J<g ref="char:V">Ʋ</g>LY,</hi> 1685.</p>
+            <p>Being the day before the Battle and Victory over the <hi>REBELS</hi> in the <hi>WEST.</hi>
+            </p>
+            <p>
+               <hi>By</hi> Thomas Aſton, A. M.</p>
+            <q>
+               <bibl>
+                  <hi>Pſalm. 85.10.</hi>
+               </bibl> Righteouſneſs and Peace have kiſſed each other.</q>
+            <p>
+               <hi>LONDON</hi> Printed for <hi>Benjamin Crayle,</hi> at the <hi>Lamb</hi> in <hi>Fleetſtreet.</hi> 1685.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:66409:2"/>
+            <pb facs="tcp:66409:2"/>
+            <head>TO COLLONEL John Friend,</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>YOu have ſhew'd me ſo many Favors, that I am neither able to requite, nor to number them. Yet I have a further request, being [in a nature] compell'd to publiſh
+<pb facs="tcp:66409:3"/>a Sermon; I humbly preſume to lay it at your Feet, and heg your Patro<g ref="char:EOLhyphen"/>nage.</p>
+            <closer>
+               <salute>Worthy SIR,</salute> 
+               <signed>your moſt obliged Affectionate Miniſter Thomas Aſton.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="5" facs="tcp:66409:3"/>
+            <head>A SERMON Preached to the <hi>Loving Society,</hi> &amp;c.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Iſaiah, 57, 21.</hi>
+                  </bibl>
+                  <p>There is no Peace ſaith my God, to the Wicked.</p>
+               </q>
+            </epigraph>
+            <p>SO ill ſounding an accent, is the Alarum of War, that it makes thoſe that hear it to tremble: ſo ſweet is the meſſage of Peace, that it is as a Cordial to the Heart. The proclaimer of War is terrible,
+<note place="margin">Iſaiah. 52.</note> but <hi>how beautiful upon the Moun<g ref="char:EOLhyphen"/>tains
+<pb n="6" facs="tcp:66409:4"/>are the Feet of thoſe that bring Tydings of Peace?</hi> they have both the ſame Maſter, the ſame Prophet proclaims theſe different tenours, from the ſame Authority. This Herald was ſent to <hi>Jeruſalem:</hi>
+               <note place="margin">Iſaiah. 40.2.</note> to <hi>tell her that her Warfair was ended:</hi> Then he brought an <hi>Olive</hi> Branch of Peace; here he proclaims War and both ſealed with the Kings Sig<g ref="char:EOLhyphen"/>net.
+<note place="margin">Iſaiah. 40.1.</note> Comfort ye my People <hi>ſaith your God,</hi> there is no Peace <hi>ſaith my God</hi> to the Wicked.</p>
+            <p>Wherein obſerve 1<hi rend="sup">ſt.</hi> the Thing pro<g ref="char:EOLhyphen"/>claimed, 2d<hi rend="sup">ly.</hi> the Perſon proclaiming and 3d<hi rend="sup">ly.</hi> the Parties againſt whom. The Proclamation is War, negative<g ref="char:EOLhyphen"/>ly ſet down, <hi>there is no Peace,</hi> which is more binding than a poſitive Aſ<g ref="char:EOLhyphen"/>ſertion. The Herald or Party Pro<g ref="char:EOLhyphen"/>claiming, is no leſs then a Prophet
+<pb n="7" facs="tcp:66409:4"/>but not from himſelf, but from the King of Kings, which has an indiſ<g ref="char:EOLhyphen"/>putable Power to grant a Commiſ<g ref="char:EOLhyphen"/>ſion, being <hi>God;</hi> to whom he expreſſeth his Relation <hi>my</hi> God. The Parties againſt whom, <hi>viz. <hi>VVicked.</hi>
+               </hi> Tho' God is a God of Peace, yet he hath Enemies againſt whom he doth wage War from ge<g ref="char:EOLhyphen"/>neration to generation. <hi>There is no Peace to the Wicked.</hi>
+            </p>
+            <p>Firſt of the Proclamation, <hi>There is no Peace.</hi> I ſhall not lead you in<g ref="char:EOLhyphen"/>to a common place, to ſhew the ſweet Fruits of Peace, and the bitter Effects and lamentable Calamities of War; I may ſay of it with wiſe King <hi>Solomon,</hi>
+               <note place="margin">Eccleſ. 1.18.</note> 
+               <hi>He that encreaſeth Knowledge, encreaſeth Sorrow.</hi>
+            </p>
+            <pb n="8" facs="tcp:66409:5"/>
+            <p>I ſhall conjoyn the War and the E<g ref="char:EOLhyphen"/>nemy, the <hi>VVicked</hi> and <hi>no Peace,</hi> Oh heavy Doom! aggravated by the generality of the Perſons and the univerſality of time and place: no wicked Man at any time, in any place can be exempted. The propo<g ref="char:EOLhyphen"/>ſition will bear this, being an univer<g ref="char:EOLhyphen"/>ſal Negative.</p>
+            <p>A wicked Man hath neither Peace of Grace here, nor Peace of Glory hereafter, but as he paſſeth from ſin to ſin, from one wicked<g ref="char:EOLhyphen"/>neſs to another; ſo he paſſeth from one puniſhment to another, from one War to another, from one Hell to another, from Flaſhes into Flames from the inward Torment of the Fiend of Conſcience, to the eternal Torments of the Devil and his Angels.</p>
+            <pb n="9" facs="tcp:66409:5"/>
+            <p>Thus you ſee <hi>there is no Peace to the Wicked,</hi> at any time, nor in a<g ref="char:EOLhyphen"/>ny place, nor [indeed] with any Perſon. 1ſt. not with God 2ly. not with Man, and 3dly. not with them<g ref="char:EOLhyphen"/>ſelves. Upon theſe three I ſhall ground my preſent Diſcourſe.</p>
+            <p>Firſt, the Wicked have <hi>no Peace with God.</hi> The Scripture tells us plainly they <hi>Enemies to God,</hi>
+               <note place="margin">Pſalm. 21.8.</note> 
+               <hi>Sons of Wrath, ſet on fire of Hell.</hi>
+               <note place="margin">Eph. 2.3. St. Jam. 3.6.</note> 
+               <hi>Ali<g ref="char:EOLhyphen"/>ens from the Common-Wealth of</hi> Iſ<g ref="char:EOLhyphen"/>rael,
+<note place="margin">Eph, 2.12.</note> 
+               <hi>and Strangers from the Covenant of Grace.</hi> Being ſuch they are with<g ref="char:EOLhyphen"/>out Chriſt, and conſequently with<g ref="char:EOLhyphen"/>out peace, for <hi>he is our Peace.</hi> 
+               <milestone type="tcpmilestone" unit="unspecified" n="14"/> He is our Peace-maker.
+<note place="margin">Rom. 5.10.</note> 
+               <hi>When we were E<g ref="char:EOLhyphen"/>nemies, we were reconciled to God by the Death of his Son.</hi>
+               <note place="margin">St. Luke 3 22</note> 
+               <hi>In him God is well pleaſed,</hi> and for him he is well pleaſed with us. Without Chriſt we
+<pb n="10" facs="tcp:66409:6"/>are Enemies; through him we are Friends of, and United to God.</p>
+            <p>The Apoſtle affirms, that ſome Men have not Faith. 2. <hi>Theſſa.</hi> 3.1.2. <hi>Pray for us,</hi> &amp;c. <hi>That we may be delivered from unreaſonable and Wicked Men: for all Men have not Faith. Heb.</hi> 11.6. <hi>Without Faith it is impoſſible to pleaſe God.</hi> And this great King will not be at Peace with thoſe that diſpleaſe him. With<g ref="char:EOLhyphen"/>out Faith no juſtification, and we muſt be juſtified before we can have peace with God. So long then as men continue in their unbelief, they can have no Peace.</p>
+            <p>
+               <hi>Rebellion is as the Sin of Witch<g ref="char:EOLhyphen"/>craft</hi> and Witchcraft is a kind of de<g ref="char:EOLhyphen"/>throning God Almighty,
+<note place="margin">1. Sam. 15.23.</note> and [as far as the Creature is able] a ſet<g ref="char:EOLhyphen"/>ting
+<pb n="11" facs="tcp:66409:6"/>the Devil in his place. This hainous Sin we are guilty of, if we rebel, and we do rebel if we diſo<g ref="char:EOLhyphen"/>bey Gods Commandments: and this is one of his Statutes;
+<note place="margin">Pſalm. 105.15.</note> 
+               <hi>Touch not mine anointed.</hi> This is one Com<g ref="char:EOLhyphen"/>mandment,
+<note place="margin">Rom. 13.1.</note> 
+               <hi>Let every Soul be ſub<g ref="char:EOLhyphen"/>ject unto the higher Powers.</hi> This is one Precept,
+<note place="margin">1. Tim. 2.2</note> Pray <hi>for Kings and for all that are in Authority.</hi> This is one Commandment,
+<note place="margin">1. St Peter. 2.13.</note> 
+               <hi>Submit your ſelves to every Ordinance of Man, for the Lords ſake, whether it be unto the King as Supream,</hi> 
+               <milestone type="tcpmilestone" unit="unspecified" n="14"/> 
+               <hi>or unto Governours as unto them that are ſent by him.</hi> He then that draws his Sword, or lifts up his Hand againſt his lawful So<g ref="char:EOLhyphen"/>veraign, the Lords anointed, is not only an Enemy, a Traytor, a Rebel to the King, but alſo to the King of Kings, he proclaims open War a<g ref="char:EOLhyphen"/>gainſt him, he ſhall have <hi>no Peace.</hi>
+            </p>
+            <pb n="12" facs="tcp:66409:7"/>
+            <p>And he doth not only proclaim, but hath joyned Battle, and fought with the Wicked from Heaven, on Earth, and ſummon'd Powers from under the Earth.</p>
+            <p>Firſt from Heaven. There is men<g ref="char:EOLhyphen"/>tion made of three Heavens, and from all he has oppoſed the Wick<g ref="char:EOLhyphen"/>ed. From the higheſt Heaven by his Angels;
+<note place="margin">2. Kings. 10.35.</note> An Angel was ſent to deſtroy the <hi>Aſſyrians;</hi> an Angel was ſent to be the Death of <hi>Herod.</hi>
+               <note place="margin">Act. 12.23.</note> By his Saints for tho' they know not the deſires of Men in particular, yet they pray in general, that God may be avenged of ſuch as moleſt his Church. Rev. 6.10. <hi>Crying with a loud Voice, ſaying how long O Lord, Holy and True, doſt thou not judge, and avenge our Blood on them that dwell on the Earth.</hi>
+            </p>
+            <pb n="13" facs="tcp:66409:7"/>
+            <p>He has fought with them from the ſecond Story,
+<note place="margin">Judges. 5.20.</note> 
+               <hi>The Stars in their Courſes fought againſt</hi> Siſera. <hi>The Sun ſtood ſtill, and haſted not to go down about a whole day, and the Moon stayed until the People had avenged themſelves upon their Enemies.</hi>
+               <note place="margin">Joſhua. 10. <hi>v.</hi> 13.</note> 
+               <hi>For the Lord hearken'd unto the Voice of a Man; and fought for</hi> Iſrael.</p>
+            <p>From the loweſt Heaven. <hi>He bringeth the Winds and Storms out of his Treaſure, and perſecuteth the Wicked with his Tempeſt. Hailſtones from Heaven were ſhowred down, to ſlay the wicked</hi> Amorites. Pſalm. 11.6. <hi>upon the <g ref="char:V">Ʋ</g>ngodly he ſhall rain ſnares, fire and Brimſtone, Storm and Tempeſt: this ſhall be their Portion to drink.</hi>
+            </p>
+            <pb n="14" facs="tcp:66409:8"/>
+            <p>Secondly, He hath fought with them on earth. The earth opened and ſwallowed the Rebellious <hi>Chorites.</hi> The Sea drowned the <hi>Aegyptians.</hi>
+            </p>
+            <p>Thirdly, He hath brought For<g ref="char:EOLhyphen"/>ces from beneath to War againſt them. <hi>An evil Spirit from the Lord vexed</hi> Saul. And we read in the Goſ<g ref="char:EOLhyphen"/>pel, of foul Spirits that haunted ma<g ref="char:EOLhyphen"/>ny, made ſome deaf, ſome dumb, drove ſome into the Water, ſome into the Fire. All which as acti<g ref="char:EOLhyphen"/>ons proceed from God; for <hi>there is no Power but of God.</hi>
+               <note place="margin">Rom. 13.1.</note> The Devil can<g ref="char:EOLhyphen"/>not ſtir but when and ſo far as God pleaſeth.</p>
+            <p>God Almighties hand is not ſhor<g ref="char:EOLhyphen"/>ten'd; what he hath done, we may certainly expect he will do. He
+<pb n="15" facs="tcp:66409:8"/>will vex, overthrow the wicked, they ſhall have <hi>no Peace.</hi>
+            </p>
+            <p>Secondly, The Wicked have <hi>
+                  <hi>no Peace with Men.</hi> Solomon</hi> tells us, <hi>there is a time for War, and a time of Peace:</hi> But the time of Peace, the Wicked cannot be ſaid to enjoy; for when they ſing Peace, Peace, then Deſtruction is hard at hand, Like Oxen they are pampered and fed, but it is but for the Slaughter; But generally, <hi>The Wicked are like the troubled Sea, when it cannot reſt; whoſe Waters cast up Mire and Dirt.</hi>
+               <note place="margin">
+                  <hi>verſe.</hi> 20.</note> They are turbulent in their own Nature, and inſtead of Peace on Earth, they ſend a Sword, and are Seminaries of Diſcord.</p>
+            <p>But there is little need to trouble my ſelf, or you, to prove that the Wicked have no outward Peace with
+<pb n="16" facs="tcp:66409:9"/>Men; ſince both Nature, and the Holy Scripture gives us So convin<g ref="char:EOLhyphen"/>cing a reaſon, which is this: Righte<g ref="char:EOLhyphen"/>ouſneſs is the elder Siſter to Peace.</p>
+            <p>
+               <hi>Ariſtotle</hi> in his Aethicks tells us, that Agreement in Evil, is not Amity, but Conſpiracy. <hi>The Tabernacles of the</hi> Edomites <hi>and</hi> Iſhmalites, <hi>the</hi> Mo<g ref="char:EOLhyphen"/>abites <hi>and</hi> Hagarens may caſt their Heads together with one conſent, and be confederate. <hi>Herod</hi> and <hi>Pilate</hi> may agree againſt Chriſt. All the Diſſenters [tho' they differ among themſelves] agree in their Oppoſiti<g ref="char:EOLhyphen"/>on to the Church: but this agree<g ref="char:EOLhyphen"/>ment does not not proceed from a Principle of Love, 'tis only the pro<g ref="char:EOLhyphen"/>duct of a joynt hatred in them to<g ref="char:EOLhyphen"/>wards others, and doth not de<g ref="char:EOLhyphen"/>ſerve the Name of Peace, 'tis meer Confederacy.</p>
+            <pb n="17" facs="tcp:66409:9"/>
+            <p>The Royal Prophet, who ſpake part of the lively Oracles of God, clears this Point. <hi>Pſalm.</hi> 85.10. <hi>Righteouſneſs and Peace have kiſſed each other:</hi> For that Man can never be a true Friend to any, that is not a Friend to Truth it ſelf; he can never be Faithful to any that con<g ref="char:EOLhyphen"/>fide in him, that is perfidious to his God. <hi>What Peace [ſaid</hi> Jehu <hi>to</hi> Jehoram] <hi>ſo long as the Whoredoms of thy Mother</hi> Jezebel <hi>and her Witch<g ref="char:EOLhyphen"/>crafts are ſo many?</hi>
+               <note place="margin">2. King 9.22.</note> And how can we expect Peace on Earth, and good Will among Men: ſo long as Whore<g ref="char:EOLhyphen"/>dom, Drunkenneſs, raſh, and falſe Swearing, Lying, Deceit, Rebellion, &amp; Treaſon are ſo frequent among us? Peace is as inconſiſtent with Wicked<g ref="char:EOLhyphen"/>neſs, as Light with Darkneſs. St. <hi>James,</hi> 4.1. asketh the queſtion <hi>From whence come Wars, and fight<g ref="char:EOLhyphen"/>ings
+<pb n="18" facs="tcp:66409:10"/>among you? come they not hence, even of your luſts?</hi> This is the rea<g ref="char:EOLhyphen"/>ſon; becauſe Men keep not the uni<g ref="char:EOLhyphen"/>ty of the Faith, they have broken the Bond of Peace. We put up our Pe<g ref="char:EOLhyphen"/>titions for Peace, and may the Prince of Peace accept our Devotion. But we cannot pray for it, but with St. <hi>Pauls</hi> limitation; <hi>if it be poſſible,</hi> and 'tis impoſſible to be at Peace with Sciſmaticks and Phanaticks, ſince they are profeſſed Enemies both to Truth and Peace: <hi>When we ſpeak of Peace</hi> [ſaith King <hi>David] they make ready for Battle.</hi>
+            </p>
+            <p>But [my Friends] I can ſhew you the good and right way, to make even your Enemies to be at Peace with you; <hi>Viz. When a Mans Ways pleaſe God:</hi> this great King will be his <hi>Advocate</hi> to thoſe that <hi>plead with him, and fight against thoſe that fight againſt him.</hi>
+            </p>
+            <pb facs="tcp:66409:10"/>
+            <p>Now I come to the 3d. Poſition; <hi>viz.</hi> that the Wicked have <hi>neither Peace one with another, nor in their own Conſciences.</hi>
+            </p>
+            <p>Firſt they have very ſeldom <hi>A<g ref="char:EOLhyphen"/>greement</hi> among themſelves. <hi>I will [ſaith God) ſet</hi> Aegyptians <hi>againſt</hi> Aegyptians, <hi>and they ſhall fight every one againſt his Brother, and every one againſt his Neighbour, Kingdom a<g ref="char:EOLhyphen"/>gainſt Kingdom, and City against Ci<g ref="char:EOLhyphen"/>ty,</hi> Ephraim <hi>againſt</hi> Manaſſeh, <hi>and</hi> Manaſſeh <hi>againſt</hi> Ephraim, <hi>the</hi> Sadduces <hi>against the</hi> Phariſees, <hi>and the</hi> Phariſees <hi>againſt the</hi> Sadduces, <hi>and a Mans Foes may be thoſe of his own Houſehold.</hi>
+            </p>
+            <p>Do ſo, Oh Lord, to our Enemies, divide them, let every Mans Sword be againſt his Fellow, but let us ever eſcape them.</p>
+            <pb facs="tcp:66409:11"/>
+            <p>Secondly, they have <hi>no Peace in their own Conſciences.</hi> I have ſhew<g ref="char:EOLhyphen"/>ed you already, that they have no Peace with God; and Peace of Con<g ref="char:EOLhyphen"/>ſcience ariſeth from Peace with him. The Conſcience is never at Peace until ſin be pardoned, and be<g ref="char:EOLhyphen"/>ing without Chriſt, their ſin remain<g ref="char:EOLhyphen"/>eth: and their Conſcience will one day be a thouſand Witneſſes to ac<g ref="char:EOLhyphen"/>cuſe them.</p>
+            <p>This Evil Conſcience may be conſidered two ways, either too quiet, or too unquiet; both di<g ref="char:EOLhyphen"/>rectly oppoſite to a peaceable Con<g ref="char:EOLhyphen"/>ſcience.</p>
+            <p>Firſt, Conſcience may be <hi>too quiet;</hi> This [you'l ſay] is a Paradox. A Conſcience quiet and not peaceable! This overquiet Conſcience is, when a
+<pb facs="tcp:66409:11"/>Man <hi>ſeared</hi> as <hi>with a hot Iron</hi> is paſt feeling, <hi>viz.</hi> when the cuſtom,
+<note place="margin">1. Tim. 4.2.</note> and habit of Sin hath taken away the ſence of it. When a Man is given up to <hi>a reprobate mind to work all un<g ref="char:EOLhyphen"/>cleaneſs with greedineſs,</hi> when neither threatnings can terrifie, judgments move, nor promiſes allure him; then Conſcience is too quiet. That Ar<g ref="char:EOLhyphen"/>my muſt needs be ſurprized, where there is no Watches, no Alarums to give Warning. When the Pulſe beats not, the Party is near his Death. He that is ignorant of his Sickneſs, will never apply himſelf to a Phyſitian. He's moſt deſperately ſick, who feels not his Diſtemper. So if Conſcience do not do its Office to accuſe and excuſe, 'tis dangerouſly ill. There is the greateſt danger in ſuch a calm, or rather inſenſibility of Conſcience; nay, ſuch a Numneſs, or Lethargy is
+<pb facs="tcp:66409:12"/>the greateſt puniſhment. The Lord threatned the <hi>Iſraelites,</hi> that he would <hi>ſmite them with Blindneſs,</hi>
+               <note place="margin">Deu. 23.28.</note> 
+               <hi>and Aſtoniſhment of Heart:</hi> meaning, that he would inflict upon them ſuch an inſenſible dulneſs, that in doing Evil, they ſhould be without appre<g ref="char:EOLhyphen"/>henſion of the Evil; and ſuch a hea<g ref="char:EOLhyphen"/>vy Judgment fell upon them; for when they were preſſed by <hi>Pilate</hi> to releaſe Chriſt, they in their impla<g ref="char:EOLhyphen"/>cable Fury neither knowing what they did, nor ſaid, horribly curs'd themſelves, crying out, <hi>his Blood be on us and on our Children.</hi> And God Almighty is juſt and true in his dea<g ref="char:EOLhyphen"/>ling with them; for ever ſince to this day they have been Vagabonds, and have no City to dwell in, and are hatred of God, and Man.</p>
+            <pb n="23" facs="tcp:66409:12"/>
+            <p>Thus you ſee what a ſore Judg<g ref="char:EOLhyphen"/>ment ſtupidity of Conſcience is. Such are naked, and not aſhamed: they drink deadly Poiſon, and can<g ref="char:EOLhyphen"/>not perceive it: their Wounds are ſo deep, that they had rather they ſhould feſter, than be ſearched. They will not War againſt ſin, but are at peace with Hell.</p>
+            <p>Conſcience is privy to all our good and evil actions; and doth ei<g ref="char:EOLhyphen"/>ther vindicate, or condemn us. It is a practical Syllogiſm in our under<g ref="char:EOLhyphen"/>ſtanding; the Major whereof is Gods Law, the Minor is our application of that Law to our ſelves, approving in our Actions what is good, and diſliking what is evil. As Gods Se<g ref="char:EOLhyphen"/>cretary, it Records all our Actions, and Thoughts, and Words in a Book of remembrance; and if it be
+<pb n="24" facs="tcp:66409:13"/>not called to give Teſtimony here, it will be called at the general Au<g ref="char:EOLhyphen"/>dit to make anſwer for whatſoever has been <hi>done in the body,</hi>
+               <note place="margin">2. Cor. 5.10.</note> 
+               <hi>whether it be good, or bad.</hi>
+            </p>
+            <p>Men are now ſo carried away with the Delights of this Life, that they have no leaſure to take notice of the checks of Conſcience: but in the day of Judgment they ſhall be brought to light, and every Mans Conſcience will acknowledge the Juſtice of the Sentence of the Right<g ref="char:EOLhyphen"/>eous Judge. Conſcience is now a ſecret Witneſs, only known to the Perſon whoſe it is; but then all ſhall be made manifeſt, and apparent to all.</p>
+            <p>But this Conſcience will appear a greater Enemy, if we conſider the next degree, which is a <hi>too diſquiet
+<pb n="25" facs="tcp:66409:13"/>Conſcience.</hi> This is fain'd by the Poet to be one of the three Furies of Hell. For tho' a Man uſe all means imagi<g ref="char:EOLhyphen"/>nable; Wine, Muſick, Society to qui<g ref="char:EOLhyphen"/>et it, when it is once awaked out of that paſt feeling, and deluding Dream, he endures a Hell upon Earth. This moved <hi>Solomon</hi> to ask the Queſtion.
+<note place="margin">Prov. 18.14.</note> 
+               <hi>A Wounded Spi<g ref="char:EOLhyphen"/>rit who can bear?</hi> Then no Wiſ<g ref="char:EOLhyphen"/>dom can counſel him, no Eloquence perſwade him; then no Phyſick can cure, nor Riches ranſom him from this tormenting Fiend. And it is ſuch a Tormentor, as the Wretch always carries about him; he continually feels thoſe inward Flaſhes, and Flames: he can find no comfort abroad, nor pleaſe himſelf at home; but in all places, and at all times helliſh Haggs, and infernal Furies afright him. A Man may
+<pb n="26" facs="tcp:66409:14"/>fly from, and eſcape an outward E<g ref="char:EOLhyphen"/>nemie, but he cannot fly from him<g ref="char:EOLhyphen"/>ſelf. The Murderer of <hi>Symmacus,</hi> [being at Supper] thought he ſaw his Viſage in the head of a Fiſh, ſerved up to the Table. And it is reported of <hi>Richard</hi> the third, that [as a Judg<g ref="char:EOLhyphen"/>ment for his bloody Act upon his two Nephews] he dreamed the De<g ref="char:EOLhyphen"/>vil did haul and pull him in moſt hideous and ugly ſhapes.
+<note place="margin">Prince <hi>Edward</hi> and <hi>Richard</hi> D. of <hi>York</hi> in the <hi>Tower.</hi>
+               </note> 
+               <hi>Cain</hi> and <hi>Judas</hi> were dogg'd at their heels by their tormenting Conſciences: the death of the former is not ſo noto<g ref="char:EOLhyphen"/>rious; but you know how the other was brought to his diſmal end. His Conſcience was a Bayliff to arreſt, a Juſtice to commit him, a Jaylor to impriſon, and a Witneſs to accuſe him, a Jury to find him guilty, and a Judge to condemn him, a Sheriff to convey him to the Place of Exe<g ref="char:EOLhyphen"/>cution,
+<pb n="27" facs="tcp:66409:14"/>and a Hangman to end one Miſery, and begin a greater.</p>
+            <p>'Tis true a <hi>Tender Conſcience,</hi> is a bleſſing,
+<note place="margin">2. Cor. 7.19.</note> it <hi>worketh Repentance never to be repented of;</hi> it prevents ſin, and makes a Man circumſpect in his Ways. It was happy for King <hi>David,</hi> that his Conſcience check'd him for his Adultery, and Murther, and num<g ref="char:EOLhyphen"/>bring the People; this wrought in him a Godly Sorrow, expreſſed by his poe<g ref="char:EOLhyphen"/>nitential and hearty Prayers. It was happy for the <hi>Apoſtle Peter,</hi> that his Conſcience check'd him for deny<g ref="char:EOLhyphen"/>ing his good Lord and Maſter; he wept bitterly, diſcovered his own weakneſs, and became a ſtronger Pillar in the Church of God. But there may be a tender Conſcience in Maſquerade, I do not need to take up much time to diſtinguiſh.
+<pb n="28" facs="tcp:66409:15"/>'Tis very apparent, ſome preſume upon a tender Conſcience when real<g ref="char:EOLhyphen"/>ly they have none. By their Fruits you may know them. When you ſee a Man ſcrupulous at an innocent Ceremony, bowing at the name of <hi>Jeſus,</hi> kneeling at the Sacrament, <hi>&amp;c.</hi> and yet make no Conſcience to lye, to deceive, to ſpeak evil of Dignities, to be drunk, to commit uncleanneſs: you may well conclude that Mans ſcrupulocity proceeds not from Conſcience [properly ſo called] but from erronious Fancy; and this is that our pretended con<g ref="char:EOLhyphen"/>ſciencious Schiſmaticks, [who diſturb the Peace of our Church] are poſ<g ref="char:EOLhyphen"/>ſeſſed off. Indeed he is not a good Chriſtian who is not conſcious of his Failings, and Aberrations, and doth not earneſtly beſeech a Pardon for Chriſts ſake, with ſtrong cryes, pray<g ref="char:EOLhyphen"/>ers,
+<pb n="29" facs="tcp:66409:15"/>and Tears, wherewith God is well pleaſed to be importun'd. But a Man may as eaſily ſee the diffe<g ref="char:EOLhyphen"/>rence between theſe two, as between a real Monarch and a perſonated King, on a Stage: The one cryes out againſt <hi>Sin;</hi> the other againſt <hi>Superſtition</hi> and <hi>Idolatry,</hi> nicknaming <hi>Decency</hi> and <hi>Order.</hi> The counterfeit Conſcience is hateful to the true God, the unfeigned is his Delight; and the gracious Redeemer of mankind will wipe away all Tears from ſuch: they ſhall ſee their Obligation can<g ref="char:EOLhyphen"/>cell'd, their Debt paid; for <hi>the Blood of Jeſus Chriſt cleanſeth them from all Sin.</hi> But the Wicked are condem<g ref="char:EOLhyphen"/>ned by their Conſcience. Their ſecret Faults, [whereof they would take no Cognizance, when it might be ad<g ref="char:EOLhyphen"/>vantagious to them,] their lying in wait for Blood, their private lurking
+<pb n="30" facs="tcp:66409:16"/>in thieviſh Corners, their ſecret ſlan<g ref="char:EOLhyphen"/>ders, their Covetouſneſs, their Re<g ref="char:EOLhyphen"/>bellion, covered over with a ſuper<g ref="char:EOLhyphen"/>ficial Holineſs; all theſe, and what<g ref="char:EOLhyphen"/>ſoever elſe they are guilty of, are well known to Conſcience; and it will accuſe, and condemn them.</p>
+            <p>Thus I have briefly ſhew'd, that the wicked have no Peace with God nor with Men, nor among them<g ref="char:EOLhyphen"/>ſelves, nor in their own Conſciences. For tho' for a time, they may ſeem quiet, they are not peaceable, 'tis on<g ref="char:EOLhyphen"/>ly from carnal ſecurity. I ſhall now deſcend to ſome practical Concluſi<g ref="char:EOLhyphen"/>ons.</p>
+            <p>Firſt we may conclude, that <hi>Sin in the Habit without Remorſe;</hi> [which amounts to Wickedneſs] <hi>
+                  <hi>inevitably brings Miſery.</hi> no Peace!</hi> conſequently War, ruine <hi>to the Wicked.</hi> Yet <hi>becauſe Sentence against an Evil Work is
+<pb n="31" facs="tcp:66409:16"/>not executed ſpeedily;</hi>
+               <note place="margin">Eccleſ. 8.11.</note> 
+               <hi>therefore the Hearts of the Sons of Men are fully ſet in them to do evil. But it ſhall not be well with the Wicked, nei<g ref="char:EOLhyphen"/>ther ſhall he prolong his days.</hi>
+               <note place="margin">v. 13.</note> The wicked Man [becauſe he is not pre<g ref="char:EOLhyphen"/>ſently ſtruck with a Thunderbolt] Fancies that God takes no notice of his actions, and will not puniſh him for them; <hi>theſe things hast thou done and I kept ſilence: thou thoughteſt that I was altogether ſuch a one as thy ſelf, but I will reprove thee,</hi>
+               <note place="margin">Pſalm. 50.21.</note> 
+               <hi>and ſet them in Order before thine Eyes.</hi> Now conſider this yee that forget God, yee that approve, and careſs your ſelves in any known ſin, whether concupiſcence, drunk<g ref="char:EOLhyphen"/>enneſs, raſh ſwearing, diſobedience to Governours, or deceit and fraud. Conſider this yee that <hi>ſpeak of good evil and of evil good,</hi> that give baſe
+<pb n="32" facs="tcp:66409:17"/>Schiſm, and ungodly Rebellion, the glorious Title of Religion; and the true Worſhip, and Service of God, the ignominious name of Superſtition: yee <hi>put Light for Darkneſs, and Dark<g ref="char:EOLhyphen"/>neſs for Light.</hi> Yee can have no Peace; God will War againſt you, he will break you in pieces while there is none to help. Man will War a<g ref="char:EOLhyphen"/>gainſt you; like <hi>Iſhmael</hi> your <hi>hand will be againſt every Man, and every Mans Hand againſt</hi> you. Your own Conſcience will War againſt you, proſecute and condemn you. You ſhall have no <hi>Peace.</hi> Conſider how fearful a thing it is, to be at vari<g ref="char:EOLhyphen"/>ance with all theſe, and therefore la<g ref="char:EOLhyphen"/>bour to be at Peace with God, and then what Man? what Angel? what Devil can be againſt you? If as yet you apprehend him your adverſary, <hi>agree with him quickly; ſeek him
+<pb n="33" facs="tcp:66409:17"/>early whilſt he may be found, call upon him, while he is near;</hi> 'tis not yet too late: beſeech him to forgive you your unrighteouſneſs, and to co<g ref="char:EOLhyphen"/>cover all your Sin, and to be at peace with you through the interceſſion of your bleſſed Mediator; ſo ſhall you not only enjoy the unſpeakable Bleſſing, <hi>The Peace of God which paſſeth all understanding.</hi> But Peace with Men. Not only with good Men, who are not apt to be at variance; but even with your Enemies, and Peace in your own Conſciences, which is a continual Feaſt. But if you fight againſt God, by an unchaſt Converſation, and wicked Life, then the Lord will fight againſt you even with the Rod of the ungodly; thoſe that are as wicked, or more wicked than your ſelves, ſhall be
+<pb n="34" facs="tcp:66409:18"/>your Scourges. For we may be well aſſured that if the Wiſe Diſ<g ref="char:EOLhyphen"/>poſer of all Things, ſhould give the Rebel Enemies the Victory, [which God in mercy forbid, I hope there is no danger of them] it is not for any love to them, but partly for the Chaſtiſement, and ſo for the amendment of Gods erring and ſtraying Servants; and partly, that the Wicked being promoted, may have the greater Downfal.</p>
+            <p>Secondly, We may conclude that, <hi>The only way to obtain Peace, is to vo Righteouſneſs.</hi> Men generally re<g ref="char:EOLhyphen"/>gard their own advantage, what more forceable inducement to per<g ref="char:EOLhyphen"/>ſwade Men to be juſt, good, meek, religious than this? This
+<pb n="35" facs="tcp:66409:18"/>great bleſſing <hi>Peace,</hi> is the portion, the inheritance of the Righteous; wherefore the wicked intermeddle not in it. <hi>Peace</hi> is Gods Creature. <hi>I create the fruits of the Lips, Peace, Peace.</hi> As in this <hi>Chap.</hi> he can con<g ref="char:EOLhyphen"/>vert curſing Traytors and Rebells: and make cruel <hi>Eſau</hi> diſſolve into Tears in his Brothers Boſom, whom he had vowed to kill. In a word, the only way to wound our Ene<g ref="char:EOLhyphen"/>mies is to mortifie our ſelves; ſo ſhall Sinners be converted unto us: ſo ſhall God even our God, give us his Bleſſing: the Bleſſing of all poſſi<g ref="char:EOLhyphen"/>ble Peace; the Bleſſing of Plenty all good things <hi>ſhall be ministred unto us</hi> in this Life, and after this Warfair is ended, he who is the <hi>Prince of Peace</hi> will Crown us with Victory.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
